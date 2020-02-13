@@ -60,5 +60,5 @@ io.on('connection', function (socket) {
 });
 
 server.listen(5000, "159.65.138.36", function () {
-  console.log("server started on port - 127.0.0.1:5000")
+  console.log("server started on port - 159.65.138.36:5000")
 });
