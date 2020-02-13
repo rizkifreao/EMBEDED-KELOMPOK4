@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "defines": [
+                "ARDUINO=10800"
+            ],
+            "includePath": [
+                "${workspaceRoot}",
+                "C:\\Users\\RIZKIFREAO\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.6.3\\**",
+                "C:\\Users\\RIZKIFREAO\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "E:\\arduino-nightly-windows\\arduino-nightly\\hardware\\tools\\**",
+                "E:\\arduino-nightly-windows\\arduino-nightly\\libraries\\**",
+                "C:\\Users\\RIZKIFREAO\\Documents\\Arduino\\hardware\\tools\\**",
+                "C:\\Users\\RIZKIFREAO\\Documents\\Arduino\\libraries\\**"
+            ],
+            "forcedInclude": [],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}
